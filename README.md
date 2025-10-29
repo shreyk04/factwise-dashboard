@@ -12,8 +12,6 @@ Built with React + AG Grid (Client-side rendering)
 
 Displays employee details such as name, department, position, email, salary, and status
 
-Supports sorting, filtering, and pagination
-
 Includes a summary section showing total employees, active employees, and average salary
 
 🛠️ Tech Stack
